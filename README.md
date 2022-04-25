@@ -11,6 +11,12 @@
 
 - 📫 Como llegar a mi **jpforwww@gmail.com**
 
+<h3 align="left">Hobby:</h3>
+<p align="left">
+Soy radioaficionado, con licencia LU9CYV. Amante de la telegrafia. <a href="https://www.qrz.com/db/LU9CYV" target="blank">Link a mi perfil en qrz.com</a>
+
+</p>
+
 <h3 align="left">Conectate conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alesandri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alesandri/" height="30" width="40" /></a>
