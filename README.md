@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juanacc" alt="juanacc" /></a> </p>
 
-- 🔭 I’m currently working on **Desarrollo backend con nodejs, express, aws**
+- 🔭 Actualmente estoy trabajando en **Desarrollo backend con nodejs, express, aws**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 Actualmente estoy aprendiendo **Funciones Lambda, AWS SQS, AWS SNS**
 
-- 📫 How to reach me **jpforwww@gmail.com**
+- 📫 Como llegar a mi **jpforwww@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
