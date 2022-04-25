@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Alesandri</h1>
-<h3 align="center">Desarrollador backend</h3>
+<h3 align="center">Soy desarrollador backend en nodejs</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanacc&label=Profile%20views&color=0e75b6&style=flat" alt="juanacc" /> </p>
 
