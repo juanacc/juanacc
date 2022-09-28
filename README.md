@@ -14,7 +14,7 @@
 <h3 align="left">Hobby:</h3>
 <p align="left">
 Soy radioaficionado, con licencia LU9CYV. Amante de la telegrafia. <a href="https://www.qrz.com/db/LU9CYV" target="blank">Link a mi perfil en qrz.com</a>
-
+Otro de mis hobbies es la astronomía.
 </p>
 
 <h3 align="left">Conectate conmigo:</h3>
